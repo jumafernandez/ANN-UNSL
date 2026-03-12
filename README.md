@@ -1,4 +1,4 @@
-
+<img width="553" height="687" alt="image" src="https://github.com/user-attachments/assets/d6f67489-96ec-4c26-85c9-6027ce7accbd" />
 # Comparación entre embeddings de turno y estados latentes dinámicos para la recuperación aproximada de vecinos en diálogos orientados a tareas
 
 **Trabajo Final**  
@@ -48,9 +48,9 @@ Para reproducir los experimentos debe descargarse desde:
 https://github.com/budzianowski/multiwoz
 
 Una vez descargado, ubicar los archivos en el directorio:
-
+```
 data/multiwoz/
-
+```
 ---
 
 ## Modelos de embeddings
@@ -158,23 +158,23 @@ ANN-UNSL/
 # Reproducción de los experimentos
 
 ## 1. Clonar el repositorio
-
+```bash
 git clone https://github.com/<usuario>/ANN-UNSL.git  
 cd ANN-UNSL
-
+```
 ## 2. Crear entorno de Python
-
+```bash
 python -m venv venv  
 source venv/bin/activate
-
+```
 En Windows:
-
+```bash
 venv\Scripts\activate
-
+```
 ## 3. Instalar dependencias
-
+```bash
 pip install -r requirements.txt
-
+```
 ---
 
 ## Dependencias principales
@@ -201,9 +201,9 @@ pip install -r requirements.txt
 ## Informe final
 
 El informe del trabajo se encuentra en:
-
+```
 report/informe_final.pdf
-
+```
 ---
 
 ## Autor
