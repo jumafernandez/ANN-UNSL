@@ -1,4 +1,3 @@
-<img width="553" height="687" alt="image" src="https://github.com/user-attachments/assets/d6f67489-96ec-4c26-85c9-6027ce7accbd" />
 # Comparación entre embeddings de turno y estados latentes dinámicos para la recuperación aproximada de vecinos en diálogos orientados a tareas
 
 **Trabajo Final**  
