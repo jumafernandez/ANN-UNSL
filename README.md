@@ -113,17 +113,13 @@ ANN-UNSL/
 ├── data/  
 │   └── multiwoz/ (dataset no incluido)  
 │
-├── embeddings/  
-│
 ├── notebooks/  
 │   ├── 01_carga_datos_y_embeddings.ipynb  
 │   ├── 02_indexacion_y_ann.ipynb  
 │   └── 03_estados_latentes_dinamicos.ipynb  
 │
-├── figures/  
-│
 ├── report/  
-│   └── informe_final.pdf  
+│   └── informe-final.pdf  
 │
 ├── requirements.txt  
 │
@@ -201,7 +197,7 @@ pip install -r requirements.txt
 
 El informe del trabajo se encuentra en:
 ```
-report/informe_final.pdf
+report/informe-final.pdf
 ```
 ---
 
