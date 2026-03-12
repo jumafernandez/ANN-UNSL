@@ -1,5 +1,5 @@
 
-# ANN-UNSL
+# Comparación entre embeddings de turno y estados latentes dinámicos para la recuperación aproximada de vecinos en diálogos orientados a tareas
 
 **Trabajo Final**  
 Curso: *Algoritmos Recientes para Búsqueda de Proximidad en Altas Dimensiones*  
