@@ -42,9 +42,7 @@ Zang, X., Rastogi, A., Sunkara, S., Gupta, R., Zhang, J., & Chen, J. (2020).
 
 El dataset **no se incluye en este repositorio**.
 
-Para reproducir los experimentos debe descargarse desde:
-
-https://github.com/budzianowski/multiwoz
+Para reproducir los experimentos debe descargarse desde: https://github.com/budzianowski/multiwoz
 
 Una vez descargado, ubicar los archivos en el directorio:
 ```
