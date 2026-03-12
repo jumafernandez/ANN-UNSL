@@ -108,9 +108,9 @@ Para explorar la estructura del espacio semántico se aplica **UMAP** para reduc
 
 # Estructura del repositorio
 
-ANN-UNSL/
-
+La estructura de este repositorio es la siguiente:
 ```
+ANN-UNSL/
 ├── data/  
 │   └── multiwoz/ (dataset no incluido)  
 │
